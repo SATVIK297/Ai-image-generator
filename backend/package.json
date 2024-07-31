@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "type": "module", //to use import and export same as react
+  "type": "module", 
   "dependencies": {
     "cloudinary": "^2.4.0",
     "cors": "^2.8.5",
